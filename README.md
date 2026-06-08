@@ -1,3 +1,3 @@
 # Praveen
 Praveen login
-praveen logout
+praveen home
